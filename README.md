@@ -1,1 +1,1 @@
-＃　DMM WEBCAMP の学習用アカウントです。
+DMM WEBCAMP の学習用アカウントです。
